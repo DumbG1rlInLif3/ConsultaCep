@@ -5,7 +5,8 @@ export default function App() {
   return (
     <View style={styles.container}>
 
-      <Text>Criação do Projeto</Text>
+      <Text>Teste Emer</Text>
+      <Text>Teste Emer</Text>
       
       <StatusBar style="auto" />
     </View>
