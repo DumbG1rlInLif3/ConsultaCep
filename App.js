@@ -48,6 +48,11 @@ export default function App() {
         </Text>
       </View>
 
+<<<<<<< HEAD
+=======
+      <Text>Alteração Carla</Text>
+      
+>>>>>>> e62f6916cdf7b11acc25b6cb8d5bc7f175085761
       <StatusBar style="auto" />
     </View>
   );
