@@ -16,7 +16,7 @@ export default function App() {
           }}
           style={{
             width: 200,
-            // Largura da imagem
+            // Largura da imagem.
             height: 150,
             // Altura da imagem
             marginTop: 30,
